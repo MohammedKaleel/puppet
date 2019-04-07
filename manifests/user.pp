@@ -1,6 +1,6 @@
 user { 'root':
   ensure             => 'present',
-  comment            => 'root',
+  comment            => 'changed by puppet',
   gid                => 0,
   home               => '/root',
   password           => '$1$JbAp9Kio$i1Xk1gyduE08PFWnArczT.',
