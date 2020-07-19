@@ -1,3 +1,0 @@
-package { 'iotop':
-    ensure => installed,
-}
